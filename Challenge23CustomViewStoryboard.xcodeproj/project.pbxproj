@@ -13,6 +13,7 @@
 		D9A7B8402405C65900B16212 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9A7B83E2405C65900B16212 /* Main.storyboard */; };
 		D9A7B8422405C65B00B16212 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9A7B8412405C65B00B16212 /* Assets.xcassets */; };
 		D9A7B8452405C65B00B16212 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9A7B8432405C65B00B16212 /* LaunchScreen.storyboard */; };
+		D9A7B84D2405C68C00B16212 /* RGBView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9A7B84C2405C68C00B16212 /* RGBView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D9A7B8412405C65B00B16212 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D9A7B8442405C65B00B16212 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D9A7B8462405C65B00B16212 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D9A7B84C2405C68C00B16212 /* RGBView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RGBView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D9A7B8382405C65900B16212 /* AppDelegate.swift */,
 				D9A7B83A2405C65900B16212 /* SceneDelegate.swift */,
 				D9A7B83C2405C65900B16212 /* ViewController.swift */,
+				D9A7B84C2405C68C00B16212 /* RGBView.swift */,
 				D9A7B83E2405C65900B16212 /* Main.storyboard */,
 				D9A7B8412405C65B00B16212 /* Assets.xcassets */,
 				D9A7B8432405C65B00B16212 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				D9A7B83D2405C65900B16212 /* ViewController.swift in Sources */,
 				D9A7B8392405C65900B16212 /* AppDelegate.swift in Sources */,
+				D9A7B84D2405C68C00B16212 /* RGBView.swift in Sources */,
 				D9A7B83B2405C65900B16212 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
